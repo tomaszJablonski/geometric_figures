@@ -33,14 +33,23 @@ public class Main {
 //        System.out.println(cuboid.volume());
 //        System.out.println(cuboid.area());
 
-        Rectangle[] arrayRectangles = new Rectangle[5]; //prostokąty
-        Cuboid[] arrayCuboids = new Cuboid[5];    //prostopadłościany
+//        Rectangle[] arrayRectangles = new Rectangle[5]; //prostokąty
+//        Cuboid[] arrayCuboids = new Cuboid[5];    //prostopadłościany
+//
+//        runApp(arrayRectangles,arrayCuboids);
+//        System.out.println(arrayRectangles[0]);
+//        System.out.println(arrayCuboids[0]);
+//
+//        System.out.println(showTables(arrayCuboids,arrayRectangles));
+//
+//        Triangle triangle = new Triangle(5,5,4,5);
+//        System.out.println(triangle);
+//        System.out.println(triangle.perimeterOfATriangle());
+//        System.out.println(triangle.fieldOfATriangle());
+//        System.out.println(triangle.isoscelesTriangle());
+//        System.out.println(triangle.equilateralTriangle());
 
-        runApp(arrayRectangles,arrayCuboids);
-        System.out.println(arrayRectangles[0]);
-        System.out.println(arrayCuboids[0]);
 
-        System.out.println(showTables(arrayCuboids,arrayRectangles));
 
     }
 
